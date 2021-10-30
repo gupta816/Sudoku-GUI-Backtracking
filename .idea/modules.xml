@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sudoku-GUI-Backtracking.iml" filepath="$PROJECT_DIR$/.idea/Sudoku-GUI-Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudoku_hangman/sudoku_hangman.iml" filepath="$PROJECT_DIR$/sudoku_hangman/sudoku_hangman.iml" />
+    </modules>
+  </component>
+</project>
